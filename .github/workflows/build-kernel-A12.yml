@@ -54,7 +54,7 @@ jobs:
         with:
           submodules: true
           repository: zclkkk/kernel_xiaomi_sm8150
-          ref: working
+          ref: master
           path: kernel-source
 
       - name: Checkout Anykernel
